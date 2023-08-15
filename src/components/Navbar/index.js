@@ -39,7 +39,7 @@ const Navbar = () => (
                 </Link>
               </li>
               <li>
-                <Link to="/" className={`nav-link${navItemClassName}`}>
+                <Link to="/about" className={`nav-link${navItemClassName}`}>
                   About
                 </Link>
               </li>
