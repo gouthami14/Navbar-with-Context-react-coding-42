@@ -38,7 +38,7 @@ const NotFound = () => (
               <p
                 className={`not-found-content ${notFoundContentTextClassName}`}
               >
-                We cannot see to find the page you are looking for.
+              We cannot seem to find the page
               </p>
             </div>
           </div>
